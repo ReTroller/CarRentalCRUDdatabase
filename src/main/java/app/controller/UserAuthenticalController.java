@@ -14,6 +14,8 @@ public class UserAuthenticalController {
     public String checkUser(String login, String password) {
         if (login == null || password == null || login.isBlank() || password.isBlank()) {
             return null;
+        }else{
+
         }
         return userDAO.checkUser(login.trim(), password.trim());
     }

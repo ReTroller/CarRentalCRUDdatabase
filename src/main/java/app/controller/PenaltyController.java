@@ -1,7 +1,7 @@
 package app.controller;
 
 import app.db.PenaltyDAO;
-import app.model.Penalty;
+
 import app.model.Penalties;
 
 public class PenaltyController {

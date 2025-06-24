@@ -1,12 +1,12 @@
 package app.view;
 
 import app.controller.RentalController;
-import app.db.*;
+
 import app.model.*;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.geometry.Insets;
-import javafx.geometry.Pos;
+
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.GridPane;

@@ -1,7 +1,7 @@
 package app.controller;
 
 import app.db.DiscountDAO;
-import app.model.Discount;
+
 import app.model.Discounts;
 
 public class DiscountController {
